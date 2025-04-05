@@ -19,7 +19,7 @@
 
 <br/>
 
-<kbd><img src="screenshots/main.png" alt="Web2Exe Screenshot" width="700" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></kbd>
+<kbd><img src="[screenshots/main.png](https://github.com/MurShidM01/Web2Exe-Python-Tool/blob/main/app_icon.ico)" alt="Web2Exe Screenshot" width="700" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></kbd>
 
 </div>
 
