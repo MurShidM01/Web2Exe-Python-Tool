@@ -1,0 +1,101 @@
+WEB2EXE PROFESSIONAL - END USER LICENSE AGREEMENT
+
+Last Updated: March 2024
+
+PLEASE READ THIS END USER LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE USING WEB2EXE PROFESSIONAL ("THE SOFTWARE"). BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. LICENSE GRANT
+
+1.1. Subject to the terms and conditions of this Agreement, Ali Khan Jalbani ("LICENSOR") grants you a non-exclusive, non-transferable license to use the Software for converting web applications to desktop executables.
+
+1.2. This license permits you to:
+   a) Install and use the Software on your personal or business computers
+   b) Create desktop applications from web projects for personal or commercial use
+   c) Distribute the applications created using the Software
+
+2. RESTRICTIONS
+
+2.1. You may NOT:
+   a) Modify, reverse engineer, decompile, or disassemble the Software
+   b) Remove or alter any copyright notices or branding in the Software
+   c) Use the Software to create malicious applications or harmful executables
+   d) Redistribute, sell, lease, or sublicense the Software itself
+   e) Use the Software in violation of applicable laws or regulations
+
+3. INTELLECTUAL PROPERTY
+
+3.1. The Software, including but not limited to source code, graphics, and documentation, is owned by the Licensor and is protected by copyright laws and international treaty provisions.
+
+3.2. Applications created using the Software:
+   a) Belong to you or your organization
+   b) May be distributed under your chosen terms
+   c) Must comply with third-party licenses (Node.js, Electron, etc.)
+
+4. UPDATES AND SUPPORT
+
+4.1. The Software may automatically download and install updates.
+4.2. Technical support is provided on a best-effort basis through:
+   - GitHub Issues
+   - Discord Community
+   - Email Support
+
+5. DISCLAIMER OF WARRANTY
+
+5.1. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO:
+   - MERCHANTABILITY
+   - FITNESS FOR A PARTICULAR PURPOSE
+   - NON-INFRINGEMENT
+
+5.2. The Licensor does not warrant that:
+   a) The Software will meet your requirements
+   b) Operation will be uninterrupted or error-free
+   c) All bugs or errors will be corrected
+
+6. LIMITATION OF LIABILITY
+
+6.1. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR:
+   a) Any loss of data, profits, or business opportunities
+   b) Any special, incidental, indirect, or consequential damages
+   c) Any claims by third parties
+   d) Damages exceeding the amount paid for the Software
+
+7. TERMINATION
+
+7.1. This Agreement is effective until terminated:
+   a) Automatically if you fail to comply with its terms
+   b) By destroying the Software and all copies
+   c) By uninstalling the Software
+
+8. THIRD-PARTY COMPONENTS
+
+8.1. The Software incorporates:
+   - Node.js (MIT License)
+   - Electron (MIT License)
+   - CustomTkinter (MIT License)
+   - Other open-source components
+
+8.2. Use of these components is subject to their respective licenses.
+
+9. DATA COLLECTION AND PRIVACY
+
+9.1. The Software may collect:
+   a) Anonymous usage statistics
+   b) Error reports
+   c) Version information for updates
+
+9.2. No personal information is collected without consent.
+
+10. GOVERNING LAW
+
+10.1. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor operates.
+
+11. CONTACT INFORMATION
+
+For questions about this Agreement, contact:
+- Email: alikhanjalbani@outlook.com
+- GitHub: https://github.com/MurShidM01/Web2Exe-Python-Tool
+- Discord: [Join our community]
+
+By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement.
+
+Copyright © 2025 Ali Khan Jalbani. All rights reserved. 
